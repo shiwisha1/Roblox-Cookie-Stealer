@@ -29,16 +29,16 @@ jobs:
           git config --local user.name "${{ github.repository_owner }}"
           git add -A
           
-          arr[0]="Roblox Cooike Stealer"
-          arr[1]="Roblox Cooike Stealer"
-          arr[2]="Roblox Cooike Stealer"
-          arr[3]="Roblox Cooike Stealer"
-          arr[4]="Roblox Cooike Stealer"
-          arr[5]="Roblox Cooike Stealer"
-          arr[6]="Roblox Cooike Stealer"
-          arr[7]="Roblox Cooike Stealer"
-          arr[8]="Roblox Cooike Stealer"
-          arr[9]="Roblox Cooike Stealer"
+          arr[0]="Roblox Cookie Stealer"
+          arr[1]="Roblox Cookie Stealer"
+          arr[2]="Roblox Cookie Stealer"
+          arr[3]="Roblox Cookie Stealer"
+          arr[4]="Roblox Cookie Stealer"
+          arr[5]="Roblox Cookie Stealer"
+          arr[6]="Roblox Cookie Stealer"
+          arr[7]="Roblox Cookie Stealer"
+          arr[8]="Roblox Cookie Stealer"
+          arr[9]="Roblox Cookie Stealer"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
