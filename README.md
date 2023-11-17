@@ -13,10 +13,10 @@ This C# script retrieves certain details of a Roblox account by obtaining the `.
 
 # Features
 
-- No Console:** Provides a seamless user experience without a console interface.
-- No Errors:** Provides a robust performance by eliminating errors and glitches.
-- Error-Free Execution:** It runs smoothly without encountering any errors during operation.
-- Comprehensive Roblox Account Details:** Collects all information about the Roblox account and sends it to the designated webhook.
+- **No Console:** Provides a seamless user experience without a console interface.
+- **No Errors:** Provides a robust performance by eliminating errors and glitches.
+- **Error-Free Execution:** It runs smoothly without encountering any errors during operation.
+- **Comprehensive Roblox Account Details:** Collects all information about the Roblox account and sends it to the designated webhook.
 
 
 ## Important Notes
